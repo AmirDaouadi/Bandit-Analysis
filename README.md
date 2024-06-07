@@ -1,9 +1,12 @@
+⚠  I took the code from mdegis and made it functional  , I did this as part of my BTS internship .⚠
+ 
 # Bandit Action   
 From Bandit documentation:
 
 Bandit is a tool designed to find common security issues in Python code. To do this Bandit processes each file, builds an AST from it, and runs appropriate plugins against the AST nodes. Once Bandit has finished scanning all the files it generates a report.
 
 This Github Action will let you use Bandit with the highly configurable parameters that suits your needs.
+
 
 
 ![](./screen_recording.gif)
