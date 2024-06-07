@@ -1,0 +1,27 @@
+CHANGES
+=======
+
+* Try to make bandit-action work
+* test correctif
+* test code
+* Change test
+* Update README.md
+* Update entrypoint.sh
+
+v1.1
+----
+
+* select unique scan targets from correct input var
+* add support for scanning multiple directories in one job
+* fixed the version in the workflow
+* README.md: Fix typo
+
+v1.0.1
+------
+
+* Fix PyYAML build error
+
+v1.0
+----
+
+* Initial commit 🎉

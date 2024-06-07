@@ -1,0 +1,2 @@
+[bandit.formatters]
+github = bandit_github_formatter.formatter:report
